@@ -35,7 +35,6 @@ Along with coding, I’m also an **Islamic Scholar** with a passion for learning
 
 ### 📫 Connect With Me
 📧 **hurain2004naz@gmail.com**  
-🌐 *(Portfolio or LinkedIn link – optional)*  
 
 ---
 
