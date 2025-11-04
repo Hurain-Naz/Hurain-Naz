@@ -28,10 +28,6 @@ Along with coding, I’m also an **Islamic Scholar** with a passion for learning
 
 ---
 
-### 📈 GitHub Stats
-![Hurain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hurain-Naz&show_icons=true&theme=rose_pine)
-
----
 
 ### 📫 Connect With Me
 📧 **hurain2004naz@gmail.com**  
