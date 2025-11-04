@@ -23,8 +23,8 @@ Along with coding, I’m also an **Islamic Scholar** with a passion for learning
 
 ### 🌟 Featured Projects
 - 💄 [Girls Beauty Website](https://github.com/Hurain-Naz/Girls-beauty)  
-- 🎬 [Movie Booking System](https://github.com/Hurain-Naz/MovieBooking)  
-- 🛍️ [Organic Products Store](https://github.com/Hurain-Naz/OrganicProducts)
+  
+
 
 ---
 
